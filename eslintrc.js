@@ -16,9 +16,7 @@ module.exports = {
         "linebreak-style": ["error", "unix"],
         quotes: ["error", "double"],
         semi: ["error", "always"],
-        // 关闭console提示( Unexpected console statement)
         "no-console": "off",
-        // 关闭定义了，但没调用(** is defind but never used)
         "no-unused-vars": "off"
     }
 };
