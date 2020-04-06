@@ -1,0 +1,12 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+body {
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  background: url(/img/mario-bg.png) no-repeat;
+  background-size: 100%;
+  background-color: #95e8f3;
+}
