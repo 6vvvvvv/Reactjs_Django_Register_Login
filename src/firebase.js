@@ -10,14 +10,7 @@ import "firebase/database";
 // method of the user reference.
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDXjr-z7lGZ-67RoixggseNo_TFCpBP6iI",
-  authDomain: "auth-lw.firebaseapp.com",
-  databaseURL: "https://auth-lw.firebaseio.com",
-  projectId: "auth-lw",
-  storageBucket: "auth-lw.appspot.com",
-  messagingSenderId: "524556200097",
-  appId: "1:524556200097:web:de6db0f1d3d13d66df68e0",
-  measurementId: "G-GR185CNB5W",
+// add your personal google firebase api here
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
