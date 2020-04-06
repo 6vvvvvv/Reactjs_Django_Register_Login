@@ -1,0 +1,13 @@
+.profile{
+    margin: 100px auto;
+    height: 440px;
+    width: 350px;
+}
+
+.center{
+    padding: 50px;
+}
+
+button{
+    opacity: 80%;
+}
